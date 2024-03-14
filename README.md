@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything related to programming 
 - 🌱 I’m currently learning Web Develpment
 - ✉️  You can contact me at tareq.ibra.04@gmail.com
-- ⚡ Fun fact: Porn for programming!
+- ⚡ Fun fact: Born for programming!
 
 ![](https://komarev.com/ghpvc/?username=TareqIbrahim04)
 
