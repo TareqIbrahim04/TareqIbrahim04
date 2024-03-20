@@ -9,7 +9,7 @@
 ## My Accounts 📨: 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tareq-ibrahim)
 
-<h2>Skills 🧠</h2>
+<h2>Skills 🧠:</h2>
 
 ![Skills](https://skillicons.dev/icons?i=cpp,java,html,css,mongodb,spring,git,github,postman,vscode,visualstudio,discord,idea&perline=11)
 
