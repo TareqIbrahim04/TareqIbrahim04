@@ -11,7 +11,7 @@
 
 <h2>Skills 🧠:</h2>
 
-![Skills](https://skillicons.dev/icons?i=cpp,java,html,css,mongodb,spring,git,github,postman,vscode,visualstudio,discord,idea&perline=11)
+![Skills](https://skillicons.dev/icons?i=cpp,java,html,css,mongodb,spring,git,github,postman,vscode,visualstudio,discord,idea,clion&perline=11)
 
 ## My stats: 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TareqIbrahim04&theme=dark&background=000000)](https://git.io/streak-stats)
